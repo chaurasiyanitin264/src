@@ -1,0 +1,169 @@
+{
+  "adminuser": [
+    {
+      "id": "1",
+      "name": "admin",
+      "adminid": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "name": "Nazneen",
+      "adminid": "naz",
+      "password": "naz123"
+    },
+    {
+      "id": "3",
+      "name": "ayushi",
+      "adminid": "ayushibpl",
+      "password": "a1234"
+    },
+    {
+      "id": "4",
+      "name": "nitin",
+      "adminid": "nitin",
+      "password": "nitin@123"
+    }
+  ],
+  "shopping": [
+    {
+      "id": "458a",
+      "name": "Dell Laptop",
+      "price": "29999",
+      "image": "https://m.media-amazon.com/images/I/61Kfqt-h5-L._AC_UY218_.jpg",
+      "description": "8GB RAM/512GB SSD/Window 11/MS Office' 21/15.6"
+    },
+    {
+      "id": "2254",
+      "name": "Dell Laptop",
+      "price": "31999",
+      "image": "https://m.media-amazon.com/images/I/61gZoQw54-L._AC_UY218_.jpg",
+      "description": "12th Generation Intel Core i3-1215U Processor, 8GB DDR4 + 512GB SSD, 15.6"
+    },
+    {
+      "id": "5f51",
+      "name": "Lenovo Laptop",
+      "price": "74298",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUyNLL0zW8GHx2PP_8aQX69qrcVYS88ooJBo_0IQXvgbaCG5MajW7Ue-ls0jp2gDT02MEBSFYellOf8Mki85QF-epDkK0SkEdF4wxjGfWq&usqp=CAc",
+      "description": " 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB GDDR6, 15.6\" (39.62cm) ",
+      "type": "old"
+    },
+    {
+      "id": "c8bc",
+      "name": "Samsung ",
+      "price": "43000",
+      "image": "https://m.media-amazon.com/images/I/71TwTzVcVqL._AC_UY218_.jpg",
+      "description": " 15.6\" Full HD Screen | Intel Core i5 1335U Processor | Windows 11 Home | MS Office 2021"
+    },
+    {
+      "id": "e584",
+      "name": "Samsung ",
+      "price": "71199",
+      "image": "https://m.media-amazon.com/images/I/71EzTyvZw6L._AC_UY218_.jpg",
+      "description": "15.6\" Full HD Screen | Intel Core 7 150U Processor | Windows 11 Home | MS Office 2021"
+    },
+    {
+      "id": "bc1f",
+      "name": "HP Laptop",
+      "price": "69799",
+      "image": "https://m.media-amazon.com/images/I/51zcFM44HRL._AC_UY218_.jpg",
+      "description": "HP Pavilion 14 Touchscreen 12th Gen Intel Core i5-1235U,14-inch (35.6 cm),FHD,16GB DDR4, 512GB SSD,",
+      "type": "old"
+    },
+    {
+      "id": "543f",
+      "name": "HP Laptop",
+      "image": "https://m.media-amazon.com/images/I/516Bh-31oRL._AC_UL320_.jpg",
+      "price": "56988",
+      "type": "new",
+      "description": "HP Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Windows 11 Home) "
+    },
+    {
+      "id": "40a1",
+      "name": "HP Laptop",
+      "price": "71900",
+      "image": "https://m.media-amazon.com/images/I/71W24hvGB+L._AC_UY218_.jpg",
+      "description": "HP 15 Core i5 13th Gen (8GB RAM/512GB SSD/FHD/Windows 11/MS Office/Backlit Keyboard/15.6",
+      "type": "old"
+    },
+    {
+      "id": "bd2a",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyvw4uefoSJYO_eArPvTUScd7cnNkf6g_dhqyi3xDUZmhPRtw7DRFQMxc0m_7dQ7gH_cqMV70AkJh1t0FwC0dJO6226L9Qgwxk_SMe78M",
+      "name": "Acer",
+      "price": "43999",
+      "description": "Acer Aspire 3 Intel Core Celeron N4500 Laptop",
+      "type": "new"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "0277",
+      "name": "aman",
+      "city": "panna",
+      "address": "Bhopal",
+      "pinCode": "488333",
+      "mobileNumber": "0987654321",
+      "paymethod": "cash",
+      "amount": "40000"
+    },
+    {
+      "id": "1b57",
+      "name": "nitin",
+      "city": "panna",
+      "address": "Indore",
+      "pinCode": "488444",
+      "mobileNumber": "09865332",
+      "paymethod": "debit"
+    },
+    {
+      "id": "688c",
+      "name": "nitin",
+      "city": "panna",
+      "address": "saleha",
+      "pinCode": "123458",
+      "mobileNumber": "09865332",
+      "paymethod": "cash",
+      "amount": "32000"
+    },
+    {
+      "id": "707b",
+      "name": "Rohit",
+      "city": "Delhi",
+      "address": "Azamgadh,UP",
+      "pinCode": "987356",
+      "mobileNumber": "8989675432",
+      "paymethod": "cash",
+      "amount": "31999"
+    },
+    {
+      "id": "e126",
+      "name": "mmm",
+      "city": "mmm",
+      "address": "mmm",
+      "pinCode": "716252",
+      "mobileNumber": "09865332",
+      "paymethod": "cash",
+      "amount": "31999"
+    },
+    {
+      "id": "383b",
+      "name": "nitin",
+      "city": "panna",
+      "address": "sjhs",
+      "pinCode": "176253",
+      "mobileNumber": "827625",
+      "paymethod": "internet",
+      "amount": "31999"
+    },
+    {
+      "id": "2a1a",
+      "name": "Rajesh",
+      "city": "Indore",
+      "address": "Bhopal",
+      "pinCode": "123458",
+      "mobileNumber": "0987654321",
+      "paymethod": "cash",
+      "amount": "31999"
+    }
+  ]
+}
