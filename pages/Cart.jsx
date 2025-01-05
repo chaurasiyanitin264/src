@@ -67,11 +67,13 @@ const Cart=()=>{
             </>
         )
     })
+    //ssi
     return(
         <>
            <h1> My Shopping Cart</h1>
            <Table striped bordered hover>
       <thead>
+
         <tr>
           <th>#</th>
           <th> Name</th>
