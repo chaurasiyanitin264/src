@@ -196,7 +196,7 @@ const DashBoard = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const navigate=useNavigate()
-
+//nitin
   return (
     <>
       {/* Fixed Header */}
@@ -207,6 +207,7 @@ const DashBoard = () => {
           </Navbar.Brand>
         </Container>
       </Navbar>
+      
 
       {/* Main Content */}
       <div id="adminDash" style={{ display: "flex", minHeight: "100vh", marginTop: "60px" }}>
@@ -256,7 +257,6 @@ const DashBoard = () => {
         >
           <Outlet />
         </div>
-
         {/* Sidebar Toggle Button for Mobile */}
         <Button
           variant="primary"
