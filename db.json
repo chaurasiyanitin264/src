@@ -27,35 +27,6 @@
   ],
   "shopping": [
     {
-      "id": "458a",
-      "name": "Dell Laptop",
-      "price": "29999",
-      "image": "https://m.media-amazon.com/images/I/61Kfqt-h5-L._AC_UY218_.jpg",
-      "description": "8GB RAM/512GB SSD/Window 11/MS Office' 21/15.6"
-    },
-    {
-      "id": "2254",
-      "name": "Dell Laptop",
-      "price": "31999",
-      "image": "https://m.media-amazon.com/images/I/61gZoQw54-L._AC_UY218_.jpg",
-      "description": "12th Generation Intel Core i3-1215U Processor, 8GB DDR4 + 512GB SSD, 15.6"
-    },
-    {
-      "id": "5f51",
-      "name": "Lenovo Laptop",
-      "price": "74298",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUyNLL0zW8GHx2PP_8aQX69qrcVYS88ooJBo_0IQXvgbaCG5MajW7Ue-ls0jp2gDT02MEBSFYellOf8Mki85QF-epDkK0SkEdF4wxjGfWq&usqp=CAc",
-      "description": " 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB GDDR6, 15.6\" (39.62cm) ",
-      "type": "old"
-    },
-    {
-      "id": "c8bc",
-      "name": "Samsung ",
-      "price": "43000",
-      "image": "https://m.media-amazon.com/images/I/71TwTzVcVqL._AC_UY218_.jpg",
-      "description": " 15.6\" Full HD Screen | Intel Core i5 1335U Processor | Windows 11 Home | MS Office 2021"
-    },
-    {
       "id": "e584",
       "name": "Samsung ",
       "price": "71199",
